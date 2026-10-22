@@ -14,7 +14,6 @@ The website presents a fictional café through three main pages: Home, About, an
 - **Home:** https://bloomcafesite.wordpress.com/home
 - **About:** https://bloomcafesite.wordpress.com/about/
 - **Contact:** https://bloomcafesite.wordpress.com/contact/
-- **GitHub Repository:** [Add your GitHub repository URL here]
 
 ## Project Details
 
@@ -129,19 +128,19 @@ Once the files have been added, use these Markdown links to display them:
 
 ### Home — Desktop
 
-![Bloom Café Home page on desktop](screenshots/home-desktop.png)
+![Bloom Café Home page on desktop](Screenshots/home-dekstop.png)
 
 ### Home — Mobile
 
-![Bloom Café Home page on mobile](screenshots/home-mobile.png)
+![Bloom Café Home page on mobile](Screenshots/home-mobile.png)
 
 ### About Page
 
-![Bloom Café About page](screenshots/about.png)
+![Bloom Café About page](Screenshots/About.png)
 
 ### Contact Page
 
-![Bloom Café Contact page](screenshots/contact.png)
+![Bloom Café Contact page](Screenshots/contact.png)
 
 *If a screenshot has not yet been added, add the image file before relying on its preview in this README.*
 
