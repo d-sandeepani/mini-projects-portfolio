@@ -9,7 +9,7 @@ Welcome to my portfolio! This repository showcases six practical projects demons
 
 Analyzed sample sales data and created a dashboard to help understand business sales performance.
 
-![Sales Dashboard](screenshots/sales-dashboard.png)
+![Sales Dashboard](screenshots/sales_dashboard.png)
 
 [View Project](01-sales-dashboard/)
 
