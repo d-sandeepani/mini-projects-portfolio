@@ -1,0 +1,11 @@
+Message ID,Customer Message,Expected Category,AI-Predicted Category,Classification Correct?,AI Draft Response,Human Review Status,Reviewer Notes
+MSG001,"Could you check whether my recent purchase was successfully registered?",Order,,,,"Pending","Fictional example"
+MSG002,"I placed an order but did not receive an order confirmation.",Order,,,,"Pending","Fictional example"
+MSG003,"I would like my money returned for an item I no longer want.",Refund,,,,"Pending","Fictional example"
+MSG004,"What is the process for requesting a refund for a returned product?",Refund,,,,"Pending","Fictional example"
+MSG005,"The tracking page has not changed for several days. Where is my parcel?",Delivery,,,,"Pending","Fictional example"
+MSG006,"Can you tell me the estimated arrival date of my package?",Delivery,,,,"Pending","Fictional example"
+MSG007,"Is this shirt available in a larger size?",Product Question,,,,"Pending","Fictional example"
+MSG008,"What materials are used to make this bag?",Product Question,,,,"Pending","Fictional example"
+MSG009,"The product I received was damaged, and I am disappointed with its condition.",Complaint,,,,"Pending","Fictional example"
+MSG010,"I contacted support earlier but still do not understand how this issue will be resolved.",Complaint,,,,"Pending","Fictional example"

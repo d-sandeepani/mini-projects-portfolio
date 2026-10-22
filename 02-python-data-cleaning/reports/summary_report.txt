@@ -1,0 +1,37 @@
+CUSTOMER DATA CLEANING TOOL - SUMMARY REPORT
+================================================
+Generated: 2026-10-14 09:07:00
+
+Original record count: 20
+Duplicate customer records removed: 2
+Cleaned record count: 18
+Records removed in total: 2
+
+Missing values before cleaning:
+- name: 2
+- email: 1
+- city: 2
+
+Missing email values after cleaning: 1
+Invalid non-empty email count: 2
+
+Invalid non-empty email values:
+- kamal.perera.example.com
+- tharushi.perera@
+
+ACTIONS PERFORMED
+- Loaded the original CSV file.
+- Detected blank and whitespace-only values.
+- Identified and removed duplicate customer records using name, email, and city.
+- Trimmed unnecessary spaces from text fields.
+- Standardized non-missing names and city names to title case.
+- Converted email addresses to lowercase and trimmed spaces.
+- Validated non-empty email addresses using a simple rule.
+- Preserved missing values; did not invent customer information.
+- Preserved rows with missing or invalid values for review.
+- Saved the cleaned CSV and this summary report.
+
+LIMITATIONS
+- Email validation is a basic format check, not proof that an address exists.
+- Duplicate detection compares name, email, and city; customer_id is excluded.
+- Similar customer records are not automatically merged.

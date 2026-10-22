@@ -1,0 +1,21 @@
+customer_id,name,email,city
+1,  JOHN SMITH ,john.smith@example.com, colombo 
+2,mary jones,mary.jones@example.com,KANDY
+3,  NIMAL PERERA,nimal.perera@example.com,Galle
+4,Saman Silva,saman.silva@example.com, Colombo
+5,john smith,john.smith@example.com,Colombo
+6,Amara Fernando ,amara.fernando@example.com, negombo 
+7,Kamal Perera,kamal.perera.example.com,Matara
+8,  ,empty.name@example.com,Jaffna
+9,Piumi Silva,piumi.silva@example.com,
+10,Ruwan Jayasuriya,ruwan.jayasuriya@example.com,Kandy
+11,Tharushi Perera,tharushi.perera@,Galle
+12,  kasun de silva ,kasun.desilva@example.com, COLOMBO 
+13,Dilani Wickramasinghe,,Kurunegala
+14,Nuwan Fernando,nuwan.fernando@example.com, Kandy 
+15,Ishara Perera,ishara.perera@example.com,GALLE
+16,  ,missing.name@example.com,Matara
+17,Sajith Silva,sajith.silva@example.com,Anuradhapura
+18,Madhavi Jayasuriya,madhavi.jayasuriya@example.com,Gampaha
+19,Nimal Perera,nimal.perera@example.com,Galle
+20,Rashmi Fernando,rashmi.fernando@example.com,  
